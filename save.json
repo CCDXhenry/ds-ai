@@ -1,0 +1,15 @@
+{
+  "chapter": 0,
+  "history": [],
+  "decisions": [],
+  "achievements": {
+    "treasure_hunter": [
+      "寻宝达人",
+      false
+    ],
+    "story_master": [
+      "故事大师",
+      false
+    ]
+  }
+}
